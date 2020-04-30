@@ -7,7 +7,7 @@ fi
 set -e
 
 rm -rf .docz/dist
-mkdir .docz/dist
+mkdir -p .docz/dist
 
 git clone https://${GITHUB_TOKEN}@github.com/KovuTheHusky/developer.myfursona.com.git --branch gh-pages .docz/dist
 
