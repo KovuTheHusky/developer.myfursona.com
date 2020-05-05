@@ -1,5 +1,5 @@
 export default {
-  title: 'MyFursona',
+  title: 'MyFursona Developer',
   themeConfig: {
     initialColorMode: 'dark',
     useColorSchemeMediaQuery: true
